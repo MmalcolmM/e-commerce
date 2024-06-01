@@ -27,7 +27,7 @@ Here's a walkthrough video: https://drive.google.com/file/d/1-swSIaoe6amPjgJsDwk
 
 
 ![screen shot of insomina](<assets/Screenshot 2024-05-27 at 9.57.32 AM.png>)
-![screenshot of vs code](<./assets/Screenshot 2024-05-27 at 9.59.44 AM.png>)
+![screenshot of vs code](<./assets/Screenshot%202024-05-27%20at%209.57.32 AM.png>)
 ## Credits
 
 Assistance from ChatGPT.
