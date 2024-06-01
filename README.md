@@ -24,8 +24,8 @@ For assistance cloning the repo follow: https://docs.github.com/articles/clonin
 - Lastly, in Insomnia or your API client try making a GET request with the endpoint of "/api/categories".
 - Here's a walkthrough video: https://drive.google.com/file/d/1-swSIaoe6amPjgJsDwkMHaX33D4rdxko/view
 
-![screen shot of vs code](<./assets/Screenshot 2024-05-27 at 9.59.44 AM.png>)
-![Screenshot of insomnia](<./assets/Screenshot 2024-05-27 at 9.57.32 AM.png>)
+![screen shot of insomina](<assets/Screenshot 2024-05-27 at 9.57.32 AM.png>)
+![screenshot of vs code](<assets/Screenshot 2024-05-27 at 9.59.44 AM.png>)
 ## Credits
 
 Assistance from ChatGPT.
